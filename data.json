@@ -1,0 +1,125 @@
+{
+  "maincategory": [
+    {
+      "id": "75b3",
+      "name": "kids"
+    },
+    {
+      "id": "caa8",
+      "name": "Female"
+    },
+    {
+      "id": "1086",
+      "name": "Male"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "f39b",
+      "name": "Shirt"
+    },
+    {
+      "id": "9450",
+      "name": "Tshirt"
+    },
+    {
+      "id": "f7ba",
+      "name": "Jeans"
+    },
+    {
+      "id": "91b2",
+      "name": "Trouser"
+    }
+  ],
+  "brand": [
+    {
+      "id": "36c4",
+      "name": "Puma"
+    },
+    {
+      "id": "65a8",
+      "name": "Mufti"
+    },
+    {
+      "id": "1405",
+      "name": "Zara"
+    },
+    {
+      "id": "4100",
+      "name": "Gucci"
+    },
+    {
+      "id": "7ebb",
+      "name": "Polo"
+    },
+    {
+      "id": "680b",
+      "name": "Tommy Hilfiger"
+    },
+    {
+      "id": "984b",
+      "name": "Nike"
+    },
+    {
+      "id": "fed9",
+      "name": "Reebok"
+    },
+    {
+      "id": "0445",
+      "name": "Cob"
+    },
+    {
+      "id": "330d",
+      "name": "Adidas"
+    },
+    {
+      "id": "5f4d",
+      "name": "H$M"
+    }
+  ],
+  "product": [
+    {
+      "id": "41f9",
+      "name": "Jeans for man slim fit",
+      "maincategory": "Male",
+      "subcategory": "Trouser",
+      "brand": "H$M",
+      "color": "White ",
+      "size": "32",
+      "baseprice": 1299,
+      "discount": 25,
+      "finalprice": 974.25,
+      "stock": "In Stock",
+      "description": "<p>btrhbd</p>\n<p>dfb</p>\n<p>ebg</p>\n<p>e</p>\n<p>e</p>\n<p>er</p>",
+      "pic1": "BeautyPlus_20190902233552785_save.jpg",
+      "pic2": "BeautyPlus_20190922192833940_save.jpg",
+      "pic3": "",
+      "pic4": ""
+    },
+    {
+      "id": "e280",
+      "name": "jeans for women ",
+      "maincategory": "Male",
+      "subcategory": "Trouser",
+      "brand": "H$M",
+      "color": "Black",
+      "size": "34",
+      "baseprice": 1699,
+      "discount": 40,
+      "finalprice": 1019.4,
+      "stock": "In Stock",
+      "description": "<p>product for women&nbsp;</p>\n<p>best product of women</p>",
+      "pic1": "BeautyPlus_20190922192833940_save.jpg",
+      "pic2": "",
+      "pic3": "",
+      "pic4": ""
+    }
+  ],
+  "user": [],
+  "cart": [],
+  "wishlist": [],
+  "checkout": [],
+  "newsletter": [],
+  "contactus": [],
+  "testimonial": []
+}
